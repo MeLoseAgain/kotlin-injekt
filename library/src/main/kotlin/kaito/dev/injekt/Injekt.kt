@@ -1,4 +1,4 @@
-package dev.mihon.injekt
+package kaito.dev.injekt
 
 import uy.kohesive.injekt.Injekt
 import uy.kohesive.injekt.api.InjektScope
