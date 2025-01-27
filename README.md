@@ -14,7 +14,7 @@ dependencyResolutionManagement {
 Add library to dependencies
 ```gradle.kts
 dependencies {
-    implementation("com.github.mihonapp:injekt:1.0.0")
+    implementation("com.github.MeLoseAgain:kotlin-injekt:f64a1f340d")
 }
 ```
 
